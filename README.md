@@ -9,6 +9,7 @@ It serves as a sandbox for learning version control, branching, pull requests, a
 - Example files for testing commits
 - Practice with GitHub Actions and workflows
 - Documentation experiments (like this README)
+- Enhanced collaboration tools and workflows
 
 ## 📂 Repository Structure
 
@@ -26,3 +27,6 @@ Collaboration and learning are at the heart of this repository, making it a grea
 
 ## 📧 Contact
 For questions or feedback, please reach out to the maintainers or submit an issue in the repository.
+
+## 📋 License
+This project is open source and available under the MIT License.
