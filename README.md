@@ -9,7 +9,6 @@ It serves as a sandbox for learning version control, branching, pull requests, a
 - Example files for testing commits
 - Practice with GitHub Actions and workflows
 - Documentation experiments (like this README)
-- Enhanced collaboration tools and workflows
 
 ## 📂 Repository Structure
 
