@@ -17,3 +17,4 @@ It serves as a sandbox for learning version control, branching, pull requests, a
 1. Clone the repository:
    ```bash
    git clone https://github.com/mr-hacker-creates/Testrepo.git
+cd Testrepo
